@@ -1,0 +1,15 @@
+{
+    "Index": {
+        "get-started": "Get started by editing",
+        "hello": "Go say Hello",
+        "docs-title": "Docs",
+        "docs-content": "Find in-depth information about Next.js features and API.",
+        "learn-title": "Learn",
+        "learn-content": "Learn about Next.js in an interactive course with quizzes!",
+        "templates-title": "Templates",
+        "templates-content": "Explore starter templates for Next.js.",
+        "deploy-title": "Deploy",
+        "deploy-content": "Instantly deploy your Next.js site to a shareable URL with Vercel.",
+        "hello-world": "Hello World!"
+    }
+}
