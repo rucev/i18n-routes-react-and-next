@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import Home from './views/Home';
-import './App.css';
+import './index.css';
 import { useEffect } from 'react';
 import LocaleSwitch from './components/LocaleSwitch';
 import Hello from './views/Hello';

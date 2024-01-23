@@ -1,4 +1,4 @@
-import styles from './page.module.css'
+import styles from '../page.module.css'
 import { useTranslations } from 'next-intl';
 import { unstable_setRequestLocale } from 'next-intl/server';
 
